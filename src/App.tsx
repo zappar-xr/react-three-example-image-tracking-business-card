@@ -2,7 +2,7 @@ import { render } from 'react-dom';
 import React, { useRef, useState, Suspense } from 'react';
 import * as THREE from 'three';
 import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader';
-import { useLoader } from 'react-three-fiber';
+import { useLoader } from '@react-three/fiber';
 import { Text } from '@react-three/drei';
 import {
  ZapparCamera, ImageTracker, ZapparCanvas, BrowserCompatibility,
