@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/react-three-example-image-tracking-business-card/static/css/main.16285d4f.chunk.css",
-    "main.js": "/react-three-example-image-tracking-business-card/static/js/main.ff6161f4.chunk.js",
-    "main.js.map": "/react-three-example-image-tracking-business-card/static/js/main.ff6161f4.chunk.js.map",
-    "runtime-main.js": "/react-three-example-image-tracking-business-card/static/js/runtime-main.b9bea050.js",
-    "runtime-main.js.map": "/react-three-example-image-tracking-business-card/static/js/runtime-main.b9bea050.js.map",
-    "static/js/2.956f6d10.chunk.js": "/react-three-example-image-tracking-business-card/static/js/2.956f6d10.chunk.js",
-    "static/js/2.956f6d10.chunk.js.map": "/react-three-example-image-tracking-business-card/static/js/2.956f6d10.chunk.js.map",
-    "static/js/3.356f5007.chunk.js": "/react-three-example-image-tracking-business-card/static/js/3.356f5007.chunk.js",
-    "static/js/3.356f5007.chunk.js.map": "/react-three-example-image-tracking-business-card/static/js/3.356f5007.chunk.js.map",
+    "main.js": "/react-three-example-image-tracking-business-card/static/js/main.8c3ba230.chunk.js",
+    "main.js.map": "/react-three-example-image-tracking-business-card/static/js/main.8c3ba230.chunk.js.map",
+    "runtime-main.js": "/react-three-example-image-tracking-business-card/static/js/runtime-main.0e1fb61f.js",
+    "runtime-main.js.map": "/react-three-example-image-tracking-business-card/static/js/runtime-main.0e1fb61f.js.map",
+    "static/js/2.c714f660.chunk.js": "/react-three-example-image-tracking-business-card/static/js/2.c714f660.chunk.js",
+    "static/js/2.c714f660.chunk.js.map": "/react-three-example-image-tracking-business-card/static/js/2.c714f660.chunk.js.map",
+    "static/js/3.460e03a0.chunk.js": "/react-three-example-image-tracking-business-card/static/js/3.460e03a0.chunk.js",
+    "static/js/3.460e03a0.chunk.js.map": "/react-three-example-image-tracking-business-card/static/js/3.460e03a0.chunk.js.map",
     "face_tracking_model.zbin": "/react-three-example-image-tracking-business-card/482727c0e7dd40d73f5aae47f238ad61.zbin",
     "face_mesh_face_model.zbin": "/react-three-example-image-tracking-business-card/b4f46e148a3b3b5aef90717d8d60e3fc.zbin",
     "face_mesh_full_head_simplified_model.zbin": "/react-three-example-image-tracking-business-card/f7b62a3a53b5c9b3222ba8dc53cb8b11.zbin",
     "index.html": "/react-three-example-image-tracking-business-card/index.html",
     "static/css/main.16285d4f.chunk.css.map": "/react-three-example-image-tracking-business-card/static/css/main.16285d4f.chunk.css.map",
-    "static/js/2.956f6d10.chunk.js.LICENSE.txt": "/react-three-example-image-tracking-business-card/static/js/2.956f6d10.chunk.js.LICENSE.txt",
+    "static/js/2.c714f660.chunk.js.LICENSE.txt": "/react-three-example-image-tracking-business-card/static/js/2.c714f660.chunk.js.LICENSE.txt",
     "static/js/worker.cd3075d1.worker.js": "/react-three-example-image-tracking-business-card/static/js/worker.cd3075d1.worker.js",
     "static/js/worker.cd3075d1.worker.js.map": "/react-three-example-image-tracking-business-card/static/js/worker.cd3075d1.worker.js.map",
     "static/media/BusinessCard.55a73b48.zpt": "/react-three-example-image-tracking-business-card/static/media/BusinessCard.55a73b48.zpt",
@@ -27,9 +27,9 @@
     "zcv/zcv.wasm": "/react-three-example-image-tracking-business-card/zcv/zcv.wasm"
   },
   "entrypoints": [
-    "static/js/runtime-main.b9bea050.js",
-    "static/js/2.956f6d10.chunk.js",
+    "static/js/runtime-main.0e1fb61f.js",
+    "static/js/2.c714f660.chunk.js",
     "static/css/main.16285d4f.chunk.css",
-    "static/js/main.ff6161f4.chunk.js"
+    "static/js/main.8c3ba230.chunk.js"
   ]
 }
