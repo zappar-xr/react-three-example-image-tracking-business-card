@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "./static/css/main.16285d4f.chunk.css",
-    "main.js": "./static/js/main.6e96216b.chunk.js",
-    "main.js.map": "./static/js/main.6e96216b.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.d2017ebe.js",
-    "runtime-main.js.map": "./static/js/runtime-main.d2017ebe.js.map",
-    "static/js/2.17f1b6e0.chunk.js": "./static/js/2.17f1b6e0.chunk.js",
-    "static/js/2.17f1b6e0.chunk.js.map": "./static/js/2.17f1b6e0.chunk.js.map",
-    "static/js/3.780bede4.chunk.js": "./static/js/3.780bede4.chunk.js",
-    "static/js/3.780bede4.chunk.js.map": "./static/js/3.780bede4.chunk.js.map",
+    "main.js": "./static/js/main.4618f38a.chunk.js",
+    "main.js.map": "./static/js/main.4618f38a.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.07062d8b.js",
+    "runtime-main.js.map": "./static/js/runtime-main.07062d8b.js.map",
+    "static/js/2.a8954d1e.chunk.js": "./static/js/2.a8954d1e.chunk.js",
+    "static/js/2.a8954d1e.chunk.js.map": "./static/js/2.a8954d1e.chunk.js.map",
+    "static/js/3.768a2382.chunk.js": "./static/js/3.768a2382.chunk.js",
+    "static/js/3.768a2382.chunk.js.map": "./static/js/3.768a2382.chunk.js.map",
     "face_tracking_model.zbin": "./482727c0e7dd40d73f5aae47f238ad61.zbin",
     "face_mesh_face_model.zbin": "./b4f46e148a3b3b5aef90717d8d60e3fc.zbin",
     "face_mesh_full_head_simplified_model.zbin": "./f7b62a3a53b5c9b3222ba8dc53cb8b11.zbin",
     "index.html": "./index.html",
     "static/css/main.16285d4f.chunk.css.map": "./static/css/main.16285d4f.chunk.css.map",
-    "static/js/2.17f1b6e0.chunk.js.LICENSE.txt": "./static/js/2.17f1b6e0.chunk.js.LICENSE.txt",
-    "static/js/worker.9eb5814d.worker.js": "./static/js/worker.9eb5814d.worker.js",
-    "static/js/worker.9eb5814d.worker.js.map": "./static/js/worker.9eb5814d.worker.js.map",
+    "static/js/2.a8954d1e.chunk.js.LICENSE.txt": "./static/js/2.a8954d1e.chunk.js.LICENSE.txt",
+    "static/js/worker.d42ea740.worker.js": "./static/js/worker.d42ea740.worker.js",
+    "static/js/worker.d42ea740.worker.js.map": "./static/js/worker.d42ea740.worker.js.map",
     "static/js/zcv.wasm": "./static/js/zcv.wasm",
     "static/media/BusinessCard.55a73b48.zpt": "./static/media/BusinessCard.55a73b48.zpt",
     "static/media/BusinessCardPlain.eb10baf3.png": "./static/media/BusinessCardPlain.eb10baf3.png",
@@ -27,9 +27,9 @@
     "static/media/zapsplat_laser.029b825f.mp3": "./static/media/zapsplat_laser.029b825f.mp3"
   },
   "entrypoints": [
-    "static/js/runtime-main.d2017ebe.js",
-    "static/js/2.17f1b6e0.chunk.js",
+    "static/js/runtime-main.07062d8b.js",
+    "static/js/2.a8954d1e.chunk.js",
     "static/css/main.16285d4f.chunk.css",
-    "static/js/main.6e96216b.chunk.js"
+    "static/js/main.4618f38a.chunk.js"
   ]
 }
