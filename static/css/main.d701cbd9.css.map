@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.d701cbd9.css","mappings":"AAAA,gBAKE,YAAa,CACb,qBAAsB,CAJtB,WAAY,CACZ,QAAS,CACT,SAAU,CAHV,UAMF","sources":["index.css"],"sourcesContent":["html, body, #root {\n  width: 100%;\n  height: 100%;\n  margin: 0;\n  padding: 0;\n  display: flex;\n  flex-direction: column;\n}\n"],"names":[],"sourceRoot":""}
